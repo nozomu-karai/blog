@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://scharf.netlify.app
 languageCode: en-us
 title: しゃるふのブログ
 theme: mini
@@ -11,7 +11,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: G-0GNTNPL6P7
+googleAnalytics: G-MJQG5EVJCK
 disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
