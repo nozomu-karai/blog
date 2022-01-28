@@ -29,7 +29,7 @@ markup:
 social:
   # e.g.
   github: https://github.com/nozomu-karai
-  twitter: https://github.com/nozomu-karai
+  twitter: https://twitter.com/scharf_ka
   # stackoverflow: your-gith
   # facebook: your-facebook-link
 
@@ -41,7 +41,7 @@ params:
   # Author biography
   bio: 学生
   # Site Description, used in HTML meat
-  description: my blog
+  description: これはしゃるふによる技術や Tips をのせるブログです。
 
 
   ###########################################
