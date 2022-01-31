@@ -6,3 +6,19 @@ categories:
 draft: false
 
 ---
+
+## About me
+
+京都大学で自然言語処理を研究しています
+
+### 所属: 京都大学４回生
+### Mail: n0216karai[at]gmail.com
+
+## Sklls
+- Python
+- C++
+- Git
+- Docker
+- 機械学習
+
+
