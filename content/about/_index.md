@@ -11,7 +11,7 @@ draft: false
 
 京都大学で自然言語処理を研究しています
 
-- 所属: 京都大学４回生
+- 所属: 京都大学M1
 - Mail: n0216karai[at]gmail.com
 
 ## Sklls
