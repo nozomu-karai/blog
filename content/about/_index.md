@@ -16,6 +16,8 @@ draft: false
 
 ## Sklls
 - Python
+  - Pytorch
+  - Transformers
 - C++
 - Git
 - Docker
