@@ -14,7 +14,7 @@ draft: false
 - 所属: 京都大学M1
 - Mail: n0216karai[at]gmail.com
 
-## Siklls
+## Skills
 - Python
   - Pytorch
   - Transformers
