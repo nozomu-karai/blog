@@ -1,6 +1,6 @@
 baseURL: https://scharf.netlify.app
 languageCode: en-us
-title: しゃるふのブログ
+title: からいの技術ブログ
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French), default 'en'
@@ -29,7 +29,7 @@ markup:
 social:
   # e.g.
   github: https://github.com/nozomu-karai
-  twitter: https://twitter.com/scharf_ka
+  # twitter: 
   # stackoverflow: your-gith
   # facebook: your-facebook-link
 
@@ -37,11 +37,11 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: scharf
+  author: Nozomu Karai
   # Author biography
   bio: 学生
   # Site Description, used in HTML meat
-  description: これはしゃるふによる技術や Tips をのせるブログです。
+  description: これはからいによる技術や Tips をのせるブログです。
 
 
   ###########################################
@@ -63,7 +63,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '© Copyright 2021 scharf' 
+  copyright: '© Copyright Nozomu Karai' 
 
   # Extra links in navigation
   links:
